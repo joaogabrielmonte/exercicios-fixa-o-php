@@ -1,0 +1,20 @@
+super globais 
+
+$_get
+$_post
+$_request
+$_cookie
+$_FILES
+$_session
+$_env
+$_server
+$globalsb 
+$_
+
+
+query string e quando vem uma solictação pela uma url 
+
+
+formularios retroalimentados
+
+um unico arquivo php onde ele nao precisará ter 2 arquivos um html e outro php onde ele iria levar pra outra pagina fazendo com que o index sai se da tela ja um formulario retroalimentado ele consiste em uma pagina só onde estará em um arquivo.php e e terá os 2 juntos como um só e sempre será atualizado 
